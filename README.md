@@ -8,7 +8,7 @@ I am a highly analytical and data-driven individual who thrives in fast-paced, r
 
 If you have any open roles that you think would be a good fit, please don't hesitate to reach out! I'm also happy to connect with anyone who might be able to help me in my job search. Thank you in advance for all your support! 🙂 Let's connect and explore potential collaborations!
 
-🌱 I’m currently learning SQL and Python
+🌱 I am a lifelong learner, and am currently learning SQL and Python to build and strengthen my technical skills!
 
 🌷 Outside of the world of technology, I am passionate about transgender health research & policy. Prior to my jump into tech, I was a social worker in community and mental health. I have worked for many community-based organizations as a case manager, health educator, and care coordinator. Many of the orgs I've worked for focus on serving the LGBTQ+ community, people living with HIV/AIDS, and youth/young adults (TAY services, ages 13-24).
 
