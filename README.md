@@ -4,7 +4,7 @@
 
 🔍 I am currently #OpenToWork! I am a cybersecurity junior professional with a passion for governance, risk, and compliance.
 
-In my previous role I worked as a customer success manager, and I have 2 years of customer-facing experience providing helpdesk and product support for B2B SaaS startups. 
+In my previous role I worked as a customer success manager, and I have 2 years of remote customer-facing experience providing helpdesk and product support for B2B SaaS startups. 
 
 I am a highly analytical and data-driven individual who thrives in fast-paced, results-oriented environments. I enjoy working collaboratively and building strong relationships with cross-functional teams and all stakeholders. I am interested in working for companies that value a people-first philosophy, empathy, and psychological safety.
 
