@@ -2,7 +2,7 @@
 
 🌺 Pronouns: She/Her/Hers
 
-🔍 I am currently #OpenToWork! I am a cybersecurity junior professional with a passion for governance, risk, and compliance.
+🔍 I am currently #OpenToWork! I am a cybersecurity junior professional with a strong interest in governance, risk, and compliance.
 
 In my previous roles I have worked as a customer success manager, with 2 years of remote customer-facing experience providing helpdesk and product support for B2B SaaS startups. 
 
