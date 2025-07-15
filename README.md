@@ -14,14 +14,12 @@ I’m a technology professional with over a decade of experience in customer-fac
 
 ## 🎯 Featured Projects:
  
-# ⚠️ Vulnerability Management Projects
+### ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/)**
-  - Utilize Tenable and Microsoft Azure VMs, and performed critical CVE analysis and remediation.
 - **[Programmatic Vulnerability Remediations](https://github.com/)**
-  - Utilize PowerShell and BASH
 
-# 🚨 Threat Hunting and Security Operations
+### 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
 
