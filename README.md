@@ -1,19 +1,32 @@
-### Hi there, I'm Malaya! 👋
-🌺 Pronouns: She/Her/Hers
+### Hi, I'm Malaya! 👋🏾 Welcome to my Cybersecurity & IT Project Portfolio
 
-I’m actively seeking opportunities in IT or cybersecurity, particularly in governance, risk management, and compliance (GRC) and third-party risk management. 
+I’m a technology professional with over a decade of experience in customer-facing roles across public and private sectors. I bring a unique blend of empathy, adaptability, and analytical thinking to cybersecurity. I thrive in dynamic environments where data-informed decisions and cross-functional collaboration are essential. My strength lies in analyzing complex information and working collaboratively with teams to help strengthen security posture and build resilience.
 
-I am a highly motivated and detail-oriented cybersecurity professional with a strong foundation in risk assessment, threat mitigation, and safeguarding sensitive information. My commitment to continuous learning and my values of integrity and diligence drive me to stay ahead of evolving cybersecurity threats. I am passionate about creating secure digital environments that protect not only an organization’s assets but also the trust of its stakeholders. My goal is to leverage my skills in identifying vulnerabilities and implementing proactive security measures to contribute to the security goals of organizations in an increasingly complex digital landscape.
+---
 
-Professional Experience
+## 🌺 About me:
+- 👩🏾‍💻 Cybersecurity Analyst (SOC I) Apprentice with MiC Talent Solutions
+- 🏥 5+ years in health and research settings, managing sensitive data and ensuring regulatory compliance.
+- 🛡️ Certifications: ISC2 Certified in Cybersecurity (CC), CompTIA Security+, and Google Cybersecurity Professional Certificate (Coursera).
+- 📚 Studying for AWS Certified Cloud Practitioner and CompTIA Network+ 
 
-• 10+ Years in Customer-Facing Roles: Proven success across both public and private sectors, demonstrating my ability to build strong relationships and deliver exceptional service.
+---
 
-• 5 Years in Health and Research Settings: Specialized in managing sensitive information and ensuring strict compliance with regulatory standards.
+## 🎯 Featured Projects:
+ 
+# ⚠️ Vulnerability Management Projects
 
-• 2 Years in B2B SaaS Startups: Gained deep insights into digital transformation, tackling both challenges and opportunities in a rapidly changing technological environment.
+- **[Vulnerability Management Program Implementation](https://github.com/)**
+  - Utilize Tenable and Microsoft Azure VMs, and performed critical CVE analysis and remediation.
+- **[Programmatic Vulnerability Remediations](https://github.com/)**
+  - Utilize PowerShell and BASH
 
-I excel in fast-paced, results-driven environments where data-informed decision-making is crucial. My strength lies in analyzing complex information and working collaboratively with cross-functional teams to develop and implement effective security strategies.
+# 🚨 Threat Hunting and Security Operations
 
-Let’s Connect:
-I’m keen to connect with professionals and organizations that prioritize integrity, empathy, and a people-first approach. If you share my interests or have insights to exchange, I’d love to hear from you! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/malaya-m/)!
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
+
+---
+
+## 💬 Let's Connect:
+
+I’m always open to connecting with fellow security professionals or learners. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/malaya-m/)!
