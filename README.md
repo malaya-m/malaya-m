@@ -1,6 +1,6 @@
-### Hi, I'm Malaya. 👋🏾 
+## 🌺 Hi, I'm Malaya. 👋🏾 
 
-Welcome to my Cybersecurity & IT Project Portfolio!
+### 👋🏾 Welcome to my Cybersecurity & IT Project Portfolio!
 
 I'm a cybersecurity practitioner with over a decade of experience in customer-facing roles across public and private sectors. I bring a unique blend of **empathy**, **adaptability**, and **analytical thinking** to my work in security. I thrive in dynamic environments where cross-functional collaboration and data-informed decision-making drive impact.
 
@@ -28,8 +28,6 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/malaya-m/threat-hunting-scenario-tor)**
    - Investigated anomalous behavior related to Tor usage and implemented detection logic in SIEM.
-
----
 
 ## 🤝🏾 Let's Connect
 I’m always open to connecting with fellow cybersecurity professionals or learners.
