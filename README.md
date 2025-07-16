@@ -33,5 +33,6 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ## 🤝🏾 Let's Connect
 I’m always open to connecting with fellow cybersecurity professionals or learners.
-- 📍 Based in SF Bay Area | 🌐 Available for remote opportunities
+- 🌐 Available for remote opportunities
+- 📍 Based in SF Bay Area
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/malayamanacop)
