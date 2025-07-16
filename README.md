@@ -22,8 +22,7 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 - **[Vulnerability Management Program Implementation](https://github.com/malaya-m/vulnerability-management-program/)**
    - Full end-to-end lifecycle of vulnerability management—from policy creation to remediation tracking.
-- **[Programmatic Vulnerability Remediations](https://github.com/)**
-   - PowerShell and BASH scripts to remediate common misconfigurations and outdated software.
+- **[Remediation Report: CVE-2013-3900](https://github.com/malaya-m/cve-2013-3900-remediation-report)**
 
 ### 🚨 Threat Hunting and Security Operations
 
