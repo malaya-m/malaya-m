@@ -1,4 +1,4 @@
-## 🌺 Hi, I'm Malaya. 👋🏾 
+## 🌺 Hi, I'm Malaya. 
 
 ### 👋🏾 Welcome to my Cybersecurity & IT Project Portfolio!
 
