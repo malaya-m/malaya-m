@@ -27,7 +27,7 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ### 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/malaya-m/threat-hunting-scenario-tor)**
    - Investigated anomalous behavior related to Tor usage and implemented detection logic in SIEM.
 
 ---
