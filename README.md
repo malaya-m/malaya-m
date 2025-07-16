@@ -12,7 +12,7 @@ I’m a technology professional with over a decade of experience in customer-fac
  
 ### ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[Vulnerability Management Program Implementation](https://github.com/malaya-m/vulnerability-management-program/)**
 - **[Programmatic Vulnerability Remediations](https://github.com/)**
 
 ### 🚨 Threat Hunting and Security Operations
