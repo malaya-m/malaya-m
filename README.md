@@ -51,6 +51,6 @@ I’m always open to connecting with fellow cybersecurity professionals or learn
 
 🌐 Available for remote opportunities  
 📍 Based in the San Francisco Bay Area  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/malayamanacop)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/malaya-m/)
 
 
