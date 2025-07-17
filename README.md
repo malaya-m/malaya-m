@@ -7,17 +7,17 @@ I'm a cybersecurity practitioner with over a decade of experience in customer-fa
 
 My passion lies in helping organizations strengthen their **security posture**, build **resilience**, and protect what matters most.
 
+🏥 **5+ years in healthcare & research**  
+- Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
 
-- 👩🏾‍💻 Current Role:
-- **SOC I Cybersecurity Analyst Apprentice** at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
-- 🏥 **5+ years in healthcare & research**  
-  Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
-- 💼 Previous Roles in Tech:
-- **Customer Success Manager** at Sprig
+👩🏾‍💻 Current Role:
+- **SOC I Cybersecurity Analyst Apprentice** at *[MiC Talent Solutions](https://www.mictalent.solutions/) – Minorities in Cybersecurity [Registered Apprenticeship Program](https://www.mictalent.solutions/apprenticeship-program)*
+
+💼 Previous Roles in Tech:
+- **Customer Success Manager** at [Sprig](https://sprig.com/)
   Partnered with B2B clients as a trusted advisor to interpret product feedback data, identify and mitigate anomalies, and maintain data quality in customer-facing insights.
-- **UX Research Participant Coordinator** at Ethnio
-  Delivered trusted Tier I/II technical support and end-to-end operational coordination, ensuring secure and efficient execution of enterprise-level UX research studies.
-- 📚 Currently studying for: AWS Certified Cloud Practitioner (CLF-C02)
+- **UX Research Participant Coordinator** at [Ethnio](https://ethn.io/)
+- Delivered trusted Tier I/II technical support and end-to-end operational coordination, ensuring secure and efficient execution of enterprise-level UX research studies.
 
 ---
 
@@ -26,6 +26,8 @@ My passion lies in helping organizations strengthen their **security posture**, 
   - [CompTIA Security+](https://drive.google.com/file/d/1PZ3bCFNR6ekGCDT9IBXWl2Ju_ZKOZ-nf/view?usp=sharing) SY0-701 (Jun 2024)
   - [Google IT Support Professional Certificate](https://drive.google.com/file/d/148t_BbIvF_kDBkyfoFhRpP-5IuYnqu_S/view?usp=sharing) (Aug 2024)
   - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1Rzqub5khBzRl2M70WKEAgiPpiK2w_sg_/view?usp=sharing) (Jan 2025)
+
+📚 Currently Studying: AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
