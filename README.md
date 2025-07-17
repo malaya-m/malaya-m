@@ -18,16 +18,6 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ---
 
-## 🏅 Certifications
-  - [ISC2 Certified in Cybersecurity](https://drive.google.com/file/d/1e5b-87hSjKbujpHuLJQ8yyWORJVac9Qk/view?usp=sharing) (Oct 2023)
-  - [CompTIA Security+](https://drive.google.com/file/d/1PZ3bCFNR6ekGCDT9IBXWl2Ju_ZKOZ-nf/view?usp=sharing) SY0-701 (Jun 2024)
-  - [Google IT Support Professional Certificate](https://drive.google.com/file/d/148t_BbIvF_kDBkyfoFhRpP-5IuYnqu_S/view?usp=sharing) (Aug 2024)
-  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1Rzqub5khBzRl2M70WKEAgiPpiK2w_sg_/view?usp=sharing) (Jan 2025)
-
-📚 **_Currently Studying For_**: AWS Certified Cloud Practitioner (CLF-C02)
-
----
-
 ## 🎯 Featured Projects
 
 ### ⚠️ Vulnerability Management
@@ -42,6 +32,16 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 - **[Threat Hunting Scenario: Unauthorized Tor Browser Usage](https://github.com/malaya-m/threat-hunting-scenario-tor)**  
   Investigated encrypted traffic patterns suggestive of Tor browser activity. Created SIEM rules using Kusto Query Language (KQL) and escalated findings via incident response channels.
+
+---
+
+## 🏅 Certifications
+  - [ISC2 Certified in Cybersecurity](https://drive.google.com/file/d/1e5b-87hSjKbujpHuLJQ8yyWORJVac9Qk/view?usp=sharing) (Oct 2023)
+  - [CompTIA Security+](https://drive.google.com/file/d/1PZ3bCFNR6ekGCDT9IBXWl2Ju_ZKOZ-nf/view?usp=sharing) SY0-701 (Jun 2024)
+  - [Google IT Support Professional Certificate](https://drive.google.com/file/d/148t_BbIvF_kDBkyfoFhRpP-5IuYnqu_S/view?usp=sharing) (Aug 2024)
+  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1Rzqub5khBzRl2M70WKEAgiPpiK2w_sg_/view?usp=sharing) (Jan 2025)
+
+📚 **_Currently Studying For_**: AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
