@@ -2,31 +2,26 @@
 
 👋🏾 Welcome to my **Cybersecurity & IT Project Portfolio**!
 
-I’m a cybersecurity practitioner with 10+ years of experience in customer-facing roles across public and private sectors. My background blends empathy, adaptability, and analytical thinking — skills I now bring to the world of security. I thrive in fast-paced environments where cross-functional collaboration and data-informed decisions strengthen security posture and build resilience.
+I'm a cybersecurity practitioner with over a decade of experience in customer-facing roles across public and private sectors. I bring a unique blend of **empathy**, **adaptability**, and **analytical thinking** to my work in security. I thrive in dynamic environments where cross-functional collaboration and data-informed decision-making drive impact.
 
-🔐 My mission: to help organizations protect what matters most.
-
----
-
-## 👩🏾‍💻 Current Role
-**SOC I Cybersecurity Analyst Apprentice**  
-*MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
+My passion lies in helping organizations strengthen their **security posture**, build **resilience**, and protect what matters most.
 
 ---
 
-## 📌 Background Snapshot
-
+## About Me
+- 👩🏾‍💻 Current Role: **SOC I Cybersecurity Analyst Apprentice**  at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
 - 🏥 **5+ years in healthcare & research**  
   Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
+- 📚 **Currently Studying**
+  - AWS Certified Cloud Practitioner (CLF-C02)
 
-- 🛡️ **Certifications**
-  - ISC2 Certified in Cybersecurity (CC)
+---
+
+## 🏅 Certifications
+  - ISC2 Certified in Cybersecurity (CC) 
   - CompTIA Security+
   - Google IT Support Professional Certificate
   - Google Cybersecurity Professional Certificate
-
-- 📚 **Currently Studying**
-  - AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
