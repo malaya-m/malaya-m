@@ -45,7 +45,7 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ---
 
-## 🤝🏾 Let’s Connect
+## 💬 Let’s Connect
 
 I’m always open to connecting with fellow cybersecurity professionals or learners.
 
