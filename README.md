@@ -8,7 +8,7 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ---
 
-## About Me
+## 📌 About Me
 - 👩🏾‍💻 Current Role: **SOC I Cybersecurity Analyst Apprentice**  at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
 - 🏥 **5+ years in healthcare & research**  
   Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
