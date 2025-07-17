@@ -14,9 +14,10 @@ My passion lies in helping organizations strengthen their **security posture**, 
 - **SOC I Cybersecurity Analyst Apprentice** at *[MiC Talent Solutions](https://www.mictalent.solutions/) – Minorities in Cybersecurity [Registered Apprenticeship Program](https://www.mictalent.solutions/apprenticeship-program)*
 
 💼 Previous Roles in Tech:
-- **Customer Success Manager** at [Sprig](https://sprig.com/)
-  Partnered with B2B clients as a trusted advisor to interpret product feedback data, identify and mitigate anomalies, and maintain data quality in customer-facing insights.
-- **UX Research Participant Coordinator** at [Ethnio](https://ethn.io/)
+
+**Customer Success Manager** at [Sprig](https://sprig.com/)
+- Partnered with B2B clients as a trusted advisor to interpret product feedback data, identify and mitigate anomalies, and maintain data quality in customer-facing insights.
+**UX Research Participant Coordinator** at [Ethnio](https://ethn.io/)
 - Delivered trusted Tier I/II technical support and end-to-end operational coordination, ensuring secure and efficient execution of enterprise-level UX research studies.
 
 ---
