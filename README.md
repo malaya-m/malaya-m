@@ -28,22 +28,22 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ### ⚠️ Vulnerability Management
 
-- **Vulnerability Management Program Implementation**  
+- **[Vulnerability Management Program Implementation](https://github.com/malaya-m/vulnerability-management-program/)**  
   Designed and documented a full lifecycle process, including policy creation, vulnerability scanning, remediation tracking, and executive reporting.
 
-- **Remediation Report: CVE-2013-3900**  
+- **[Remediation Report: CVE-2013-3900](https://github.com/malaya-m/cve-2013-3900-remediation-report)**  
   Analyzed and mitigated a legacy Windows signature validation vulnerability using registry-level patches.
 
 ### 🚨 Threat Hunting & Security Operations
 
-- **Threat Hunting Scenario: Unauthorized Tor Usage**  
+- **[Threat Hunting Scenario: Unauthorized Tor Browser Usage)](https://github.com/malaya-m/threat-hunting-scenario-tor)**  
   Investigated encrypted traffic patterns suggestive of Tor browser activity. Created SIEM rules using Kusto Query Language (KQL) and escalated findings via incident response channels.
 
 ---
 
 ## 🤝🏾 Let’s Connect
 
-I’m always open to learning, collaborating, and sharing knowledge.
+I’m always open to connecting with fellow cybersecurity professionals or learners.
 
 - 🌐 Available for remote opportunities  
 - 📍 Based in the San Francisco Bay Area  
