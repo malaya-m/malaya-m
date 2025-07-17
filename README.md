@@ -12,16 +12,15 @@ My passion lies in helping organizations strengthen their **security posture**, 
 - 👩🏾‍💻 Current Role: **SOC I Cybersecurity Analyst Apprentice**  at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
 - 🏥 **5+ years in healthcare & research**  
   Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
-- 📚 **Currently Studying**
-  - AWS Certified Cloud Practitioner (CLF-C02)
+- 📚 Currently studying for: AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
 ## 🏅 Certifications
-  - ISC2 Certified in Cybersecurity (CC) 
-  - CompTIA Security+
-  - Google IT Support Professional Certificate
-  - Google Cybersecurity Professional Certificate
+  - [ISC2 Certified in Cybersecurity](https://drive.google.com/file/d/1e5b-87hSjKbujpHuLJQ8yyWORJVac9Qk/view?usp=sharing) (Oct 2023)
+  - [CompTIA Security+](https://drive.google.com/file/d/1PZ3bCFNR6ekGCDT9IBXWl2Ju_ZKOZ-nf/view?usp=sharing) SY0-701 (Jun 2024)
+  - [Google IT Support Professional Certificate](https://drive.google.com/file/d/148t_BbIvF_kDBkyfoFhRpP-5IuYnqu_S/view?usp=sharing) (Aug 2024)
+  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1Rzqub5khBzRl2M70WKEAgiPpiK2w_sg_/view?usp=sharing) (Jan 2025)
 
 ---
 
@@ -48,8 +47,6 @@ I’m always open to learning, collaborating, and sharing knowledge.
 
 - 🌐 Available for remote opportunities  
 - 📍 Based in the San Francisco Bay Area  
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/malayamanacop)
 
----
 
-> *“Security is not just about technology — it’s about people, trust, and community.”*
