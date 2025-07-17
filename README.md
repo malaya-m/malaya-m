@@ -2,16 +2,21 @@
 
 👋🏾 Welcome to my **Cybersecurity & IT Project Portfolio**!
 
+## 📌 About Me
 I'm a cybersecurity practitioner with over a decade of experience in customer-facing roles across public and private sectors. I bring a unique blend of **empathy**, **adaptability**, and **analytical thinking** to my work in security. I thrive in dynamic environments where cross-functional collaboration and data-informed decision-making drive impact.
 
 My passion lies in helping organizations strengthen their **security posture**, build **resilience**, and protect what matters most.
 
----
 
-## 📌 About Me
-- 👩🏾‍💻 Current Role: **SOC I Cybersecurity Analyst Apprentice**  at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
+- 👩🏾‍💻 Current Role:
+- **SOC I Cybersecurity Analyst Apprentice** at *MiC Talent Solutions – Minorities in Cybersecurity Registered Apprenticeship Program*
 - 🏥 **5+ years in healthcare & research**  
   Managed sensitive data, ensured HIPAA compliance, and led service delivery across complex regulatory landscapes.
+- 💼 Previous Roles in Tech:
+- **Customer Success Manager** at Sprig
+  Partnered with B2B clients as a trusted advisor to interpret product feedback data, identify and mitigate anomalies, and maintain data quality in customer-facing insights.
+- **UX Research Participant Coordinator** at Ethnio
+  Delivered trusted Tier I/II technical support and end-to-end operational coordination, ensuring secure and efficient execution of enterprise-level UX research studies.
 - 📚 Currently studying for: AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
@@ -36,7 +41,7 @@ My passion lies in helping organizations strengthen their **security posture**, 
 
 ### 🚨 Threat Hunting & Security Operations
 
-- **[Threat Hunting Scenario: Unauthorized Tor Browser Usage)](https://github.com/malaya-m/threat-hunting-scenario-tor)**  
+- **[Threat Hunting Scenario: Unauthorized Tor Browser Usage](https://github.com/malaya-m/threat-hunting-scenario-tor)**  
   Investigated encrypted traffic patterns suggestive of Tor browser activity. Created SIEM rules using Kusto Query Language (KQL) and escalated findings via incident response channels.
 
 ---
