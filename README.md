@@ -25,6 +25,9 @@ My passion lies in helping organizations strengthen their **security posture**, 
 - **[Vulnerability Management Program Implementation](https://github.com/malaya-m/vulnerability-management-program/)**  
   Designed and documented a full lifecycle process, including policy creation, vulnerability scanning, remediation tracking, and executive reporting.
 
+- **[Windows 10 STIG Remediation Repository](https://github.com/malaya-m/Win10-STIG-Remediation)**
+  Identified, remediated, and verified Windows 10 security misconfigurations based on the DISA STIG guidelines using Tenable and automated PowerShell scripts. 
+
 - **[Remediation Report: CVE-2013-3900](https://github.com/malaya-m/cve-2013-3900-remediation-report)**  
   Analyzed and mitigated a legacy Windows signature validation vulnerability using registry-level patches.
 
